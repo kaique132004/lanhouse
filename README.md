@@ -1,5 +1,3 @@
-Claro! Aqui está uma estrutura sugerida para a documentação do projeto a ser adicionada ao arquivo README.md:
-
 # LAN Network System
 
 Este é um projeto que simula um sistema de rede local (LAN) com um servidor e clientes. O servidor é responsável por controlar o acesso dos clientes aos computadores da rede. Cada cliente pode solicitar acesso a um computador disponível por um determinado tempo e, após o término desse tempo, o acesso é liberado novamente.
